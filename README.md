@@ -31,7 +31,7 @@
 * EASY EXPLANATION
 	* if you Want you can skip all the shit below, and just understand this in the context of a web app that let's you log fried chicken restaurants (what this app does) 
 
-		* REST means you have 4 types of URLs for a fried chicken spot: create a fried chicken spot (A POST ROUTE), read a fried a chicken spot (A GET ROUTE), update a fried chicken spot (A PUT ROUTE) and delete a fried chicken spot (A DELETE ROUTE).
+		* REST means you have 4 types of URLs for a fried chicken spot: create a fried chicken spot (A POST ROUTE), read a fried chicken spot (A GET ROUTE), update a fried chicken spot (A PUT ROUTE) and delete a fried chicken spot (A DELETE ROUTE).
 
 * HARD EXPLANATION (with theory)
 	* Use HTTP methods explicitly.
